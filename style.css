@@ -10,7 +10,7 @@ body {
 
 h1, h2, h3 {
   font-family: 'Itim', cursive;font-family: 'Itim', cursive;
-  font-size:x-large;
+  font-size:32px;
 }
 
 a {
@@ -95,4 +95,5 @@ ul {
 
 p {
 text-align: left;
+font-size: 18px;
 }
